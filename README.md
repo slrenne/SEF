@@ -10,4 +10,4 @@ Web of Science [link](https://www.webofscience.com/wos/woscc/summary/a6e9639e-dc
 TOPIC: (sclerosing epithelioid fibrosarcoma molecular). 
 Timespan: All years. 
 
-Raw outputs of the systematic search are saved in 
+Raw outputs of the systematic search are saved in the [search_results](https://github.com/slrenne/SEF/tree/main/search_results) folder.
