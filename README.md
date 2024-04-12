@@ -1,6 +1,7 @@
 # Sclerosing Epithelioid Fibrosarcoma (SEF) 
 ## Case series, Systematic Review of the literature, and Bayesian analysis
 
+### Systematic Review of the Literature
 A systematic literature search was performed on April 12th, 2024 in Medline and Web of Science databases according to the following search strategy:
 
 MEDLINE [link](https://pubmed.ncbi.nlm.nih.gov/?term=%28%22sclerosing+epithelioid+fibrosarcoma%22%5BAll+Fields%5D+OR+%28%22sclerosing%22%5BAll+Fields%5D+AND+%22sarcoma%22%5BAll+Fields%5D%29%29+AND+%28%22CREM%22%5BAll+Fields%5D+OR+%22CREB%22%5BAll+Fields%5D+OR+%22FUS%22%5BAll+Fields%5D+OR+%22EWS%22%5BAll+Fields%5D+OR+%22YAP%22%5BAll+Fields%5D+OR+%22KTM%22%5BAll+Fields%5D+OR+%22molecular%22%5BAll+Fields%5D%29&sort=date): 
